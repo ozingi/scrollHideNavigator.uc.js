@@ -17,7 +17,7 @@ appcontent1.onmouseover = function () {
         e = e
         ////Firefox滑轮事件  
         if (e.detail > 0) { //当滑轮向上滚动时  
-            navBar.style.marginTop = "-"+navBar.clientHeight+"px";
+            navBar.style.marginTop = "-"+navBar.clientHeight+1+"px";
             navBar.style.opacity = 0;
 
             titleBar.style.marginTop = "-"+titleBar.clientHeight+"px";
