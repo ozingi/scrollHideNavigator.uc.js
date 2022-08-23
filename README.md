@@ -19,7 +19,7 @@ firefox移动版有个滑动页面浏览时自动隐藏导航栏的功能，这�
 
 ![图片](https://user-images.githubusercontent.com/23213458/184523514-0865c8a6-cc1d-4711-8cbb-5ddfe40a904e.png)
 
-4、之后将userChrome.css和scrollHideNavigator.uc.js也复制到chrome文件夹
+4、之后将scrollHideNavigator.uc.js也复制到chrome文件夹
 
 ![图片](https://user-images.githubusercontent.com/23213458/184523536-3b363e99-6e49-4af0-8a25-3e7f82f34467.png)
 
