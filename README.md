@@ -12,6 +12,7 @@ firefox移动版有个滑动页面浏览时自动隐藏导航栏的功能，这�
 
 Firefox v117使用方法 [https://zhuanlan.zhihu.com/p/654088682](https://zhuanlan.zhihu.com/p/654088682)
 v117之前的版本可以参考下面的
+
 1、将上面environment文件夹内的zip文件下载下来，其中fx-folder.zip解压复制到firefox的安装目录，另一个utils_scripts_only.zip待会再操作
 
 ![图片](https://user-images.githubusercontent.com/23213458/184523496-dc5bc83e-2e1e-4d74-bd2d-cfd1e96ae2a1.png)
